@@ -47,17 +47,17 @@
         <p class="lead mb-5">I want to succeed in a stimulating and challenging environment, building the success of the company while I experience advancement
 opportunities.</p>
         <div class="social-icons">
-          <a href="#">
-            <i class="fab fa-linkedin-in"></i>
+          <a href="https://www.linkedin.com/in/shubhang-vanjani-06b640150">
+            <i class="fa fa-linkedin"></i>
+          </a>
+          <a href="https://github.com/Shubhangvanjani?tab=repositories">
+            <i class="fa fa-github"></i>
           </a>
           <a href="#">
-            <i class="fab fa-github"></i>
+            <i class="fa fa-twitter"></i>
           </a>
           <a href="#">
-            <i class="fab fa-twitter"></i>
-          </a>
-          <a href="#">
-            <i class="fab fa-facebook-f"></i>
+            <i class="fa fa-facebook-f"></i>
           </a>
         </div>
       </div>
