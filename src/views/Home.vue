@@ -28,7 +28,7 @@
             <a class="nav-link js-scroll-trigger" href="#interests">Interests</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#awards">Awards</a>
+            <a class="nav-link js-scroll-trigger" href="#awards">Projects</a>
           </li>
         </ul>
       </div>
@@ -44,7 +44,8 @@
         <div class="subheading mb-5"> Vadodara · Gujarat,  +91-9724351510 ·
           <a href="mailto:name@email.com">shubhangvanjani@gmail.com</a>
         </div>
-        <p class="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
+        <p class="lead mb-5">I want to succeed in a stimulating and challenging environment, building the success of the company while I experience advancement
+opportunities.</p>
         <div class="social-icons">
           <a href="#">
             <i class="fab fa-linkedin-in"></i>
@@ -68,29 +69,39 @@
       <div class="w-100">
         <h2 class="mb-5">Experience</h2>
 
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+        <div class="">
+           <div class="resume-date text-md-right">
+            <span class="text-primary">July 2019 - Present</span>
+          </div>
           <div class="resume-content">
-            <h3 class="mb-0">Senior Web Developer</h3>
-            <div class="subheading mb-3">Intelitec Solutions</div>
-            <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
+            <h3 class="mb-0">Software Engineer</h3>
+            <div class="subheading mb-3">Office Beacon LLC</div>
+           
+            <p>
+              Developing web and mobile application using the Vuejs and Nativescript-vue integrated with salesforce services.</p>
+             <p> Developed a service in nodejs using the micro-service architecture to integrate the third party API (Donbest API) with the application .
+            </p>
           </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary">March 2013 - Present</span>
-          </div>
+          
         </div>
 
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+        <div class="">
+           <div class="resume-date text-md-right">
+            <span class="text-primary">January 2019 - June 2019</span>
+          </div>
           <div class="resume-content">
-            <h3 class="mb-0">Web Developer</h3>
-            <div class="subheading mb-3">Intelitec Solutions</div>
-            <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>
+            <h3 class="mb-0">Software Engineer Intern </h3>
+            <div class="subheading mb-3">Office Beacon LLC</div>
+             <p>
+              Developed feature to import csv with thousands of customer data using vuejs and nodejs.</p>
+              <p>Used web3.js to connect front-end with ethereum network in the blockchain projects.</p>
+              <p>Mailing service with particular date and time in nodejs.
+            </p>
           </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary">December 2011 - March 2013</span>
-          </div>
+          
         </div>
 
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+        <!-- <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
             <h3 class="mb-0">Junior Web Designer</h3>
             <div class="subheading mb-3">Shout! Media Productions</div>
@@ -99,9 +110,9 @@
           <div class="resume-date text-md-right">
             <span class="text-primary">July 2010 - December 2011</span>
           </div>
-        </div>
+        </div> -->
 
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
+        <!-- <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
           <div class="resume-content">
             <h3 class="mb-0">Web Design Intern</h3>
             <div class="subheading mb-3">Shout! Media Productions</div>
@@ -110,7 +121,7 @@
           <div class="resume-date text-md-right">
             <span class="text-primary">September 2008 - June 2010</span>
           </div>
-        </div>
+        </div> -->
 
       </div>
 
@@ -122,27 +133,42 @@
       <div class="w-100">
         <h2 class="mb-5">Education</h2>
 
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
-            <h3 class="mb-0">University of Colorado Boulder</h3>
-            <div class="subheading mb-3">Bachelor of Science</div>
-            <div>Computer Science - Web Development Track</div>
-            <p>GPA: 3.23</p>
-          </div>
+        <div class="">
           <div class="resume-date text-md-right">
-            <span class="text-primary">August 2006 - May 2010</span>
+            <span class="text-primary">August 2015 - May 2019</span>
           </div>
+          <div class="resume-content">
+            <h3 class="mb-0">Gujarat Technology University</h3>
+            <div class="subheading mb-3">Bachelor of Engineering</div>
+            <div>Computer Engineering </div>
+            <p>CGPA: 7.61</p>
+          </div>
+          
         </div>
 
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
-          <div class="resume-content">
-            <h3 class="mb-0">James Buchanan High School</h3>
-            <div class="subheading mb-3">Technology Magnet Program</div>
-            <p>GPA: 3.56</p>
-          </div>
+        <div class="">
           <div class="resume-date text-md-right">
-            <span class="text-primary">August 2002 - May 2006</span>
+            <span class="text-primary">June 2013 - March 2015</span>
           </div>
+          <div class="resume-content">
+            <h3 class="mb-0">Ambe School</h3>
+            <div class="subheading mb-3">Higher Secondary Certificate</div>
+            <div>Science Stream </div>
+            <p>Percentage: 64%</p>
+          </div>
+          
+        </div>
+
+        <div class="">
+          <div class="resume-date text-md-right">
+            <span class="text-primary">June 2012 - March 2013</span>
+          </div>
+          <div class="resume-content">
+            <h3 class="mb-0">Ambe School</h3>
+            <div class="subheading mb-3">Secondary School Certificate</div>
+            <p>Percentage: 68%</p>
+          </div>
+          
         </div>
 
       </div>
@@ -195,7 +221,7 @@
         </ul>
 
         <div class="subheading mb-3">Workflow</div>
-        <ul class="fa-ul mb-0">
+        <!-- <ul class="fa-ul mb-0">
           <li>
             <i class="fa-li fa fa-check"></i>
             Mobile-First, Responsive Design</li>
@@ -208,7 +234,7 @@
           <li>
             <i class="fa-li fa fa-check"></i>
             Agile Development &amp; Scrum</li>
-        </ul>
+        </ul> -->
       </div>
     </section>
 
@@ -217,8 +243,8 @@
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="interests">
       <div class="w-100">
         <h2 class="mb-5">Interests</h2>
-        <p>Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.</p>
-        <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world.</p>
+        <!-- <p>Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.</p> -->
+        <!-- <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world.</p> -->
       </div>
     </section>
 
@@ -226,8 +252,9 @@
 
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="awards">
       <div class="w-100">
-        <h2 class="mb-5">Awards &amp; Certifications</h2>
-        <ul class="fa-ul mb-0">
+        <!-- <h2 class="mb-5">Awards &amp; Certifications</h2> -->
+        <h2 class="mb-5">Projects</h2>
+        <!-- <ul class="fa-ul mb-0">
           <li>
             <i class="fa-li fa fa-trophy text-warning"></i>
             Google Analytics Certified Developer</li>
@@ -254,7 +281,7 @@
             <i class="fa-li fa fa-trophy text-warning"></i>
             3<sup>rd</sup>
             Place - James Buchanan High School - Hackathon 2005</li>
-        </ul>
+        </ul> -->
       </div>
     </section>
 
@@ -307,7 +334,7 @@ export default {
 }
 </script>
 
-<style>
+<style  >
 body {
   font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   padding-top: 54px;
