@@ -334,7 +334,10 @@ export default {
 }
 </script>
 
-<style  >
+<style>
+.rounded-circle{
+  border-radius: 38% !important;
+}
 body {
   font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   padding-top: 54px;
