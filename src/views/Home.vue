@@ -493,4 +493,12 @@ a:hover, a:focus, a:active {
 .fa-check{
   margin-left: 230px !important;
 }
+@media only screen and (max-width: 768px) {
+  /* .fa-check{
+    margin: 0px !important;
+  } */
+  [class*="fa-check"]{
+    margin: 0px !important;
+  }
+} 
 </style>
