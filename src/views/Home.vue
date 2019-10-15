@@ -1,5 +1,9 @@
 <template>
   <div class="main-wrapper">
+    <link rel="stylesheet" 
+        href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" 
+        integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" 
+        crossorigin="anonymous">
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
       <a class="navbar-brand js-scroll-trigger" href="#page-top">
         <span class="d-block d-lg-none">Shubhang Vanjani</span>
@@ -48,16 +52,16 @@
 opportunities.</p>
         <div class="social-icons">
           <a href="https://www.linkedin.com/in/shubhang-vanjani-06b640150">
-            <i class="fa fa-linkedin"></i>
+            <i class="fab fa-linkedin-in"></i>
           </a>
           <a href="https://github.com/Shubhangvanjani?tab=repositories">
-            <i class="fa fa-github"></i>
+            <i class="fab fa-github"></i>
           </a>
           <a href="#">
-            <i class="fa fa-twitter"></i>
+            <i class="fab fa-twitter"></i>
           </a>
           <a href="#">
-            <i class="fa fa-facebook-f"></i>
+            <i class="fab fa-skype"></i>
           </a>
         </div>
       </div>
@@ -180,61 +184,43 @@ opportunities.</p>
       <div class="w-100">
         <h2 class="mb-5">Skills</h2>
 
-        <div class="subheading mb-3">Programming Languages &amp; Tools</div>
+        <div class="subheading mb-3">Technologies &amp; Tools</div>
         <ul class="list-inline dev-icons">
           <li class="list-inline-item">
-            <i class="fab fa-html5"></i>
+            <i class="fab fa-node"></i>
           </li>
           <li class="list-inline-item">
-            <i class="fab fa-css3-alt"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="fab fa-js-square"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="fab fa-angular"></i>
+            <i class="fab fa-vuejs"></i>
           </li>
           <li class="list-inline-item">
             <i class="fab fa-react"></i>
           </li>
           <li class="list-inline-item">
-            <i class="fab fa-node-js"></i>
+            <i class="fab fa-java"></i>
           </li>
           <li class="list-inline-item">
-            <i class="fab fa-sass"></i>
+            <i class="fab fa-js"></i>
           </li>
           <li class="list-inline-item">
-            <i class="fab fa-less"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="fab fa-wordpress"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="fab fa-gulp"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="fab fa-grunt"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="fab fa-npm"></i>
+            <i class="fab fa-python"></i>
           </li>
         </ul>
 
-        <div class="subheading mb-3">Workflow</div>
-        <!-- <ul class="fa-ul mb-0">
+        <div class="subheading mb-3">Skill Sets</div>
+        <ul class="fa-ul mb-0">
           <li>
             <i class="fa-li fa fa-check"></i>
-            Mobile-First, Responsive Design</li>
+            Native Development :- Nativescript </li>
           <li>
             <i class="fa-li fa fa-check"></i>
-            Cross Browser Testing &amp; Debugging</li>
+            Web Development :- Vuejs, Reactjs, Nodejs </li>
           <li>
             <i class="fa-li fa fa-check"></i>
-            Cross Functional Teams</li>
+            Databases :- RethinkDB, Firebase, MongoDB, SQL</li>
           <li>
             <i class="fa-li fa fa-check"></i>
-            Agile Development &amp; Scrum</li>
-        </ul> -->
+            Languages :- C, C++, Java, Javascript</li>
+        </ul>
       </div>
     </section>
 
@@ -330,7 +316,7 @@ export default {
 }
 </script>
 
-<style>
+<style >
 .rounded-circle{
   border-radius: 38% !important;
 }
@@ -409,8 +395,8 @@ p.lead {
   font-size: 3rem;
 }
 
-.dev-icons .list-inline-item i:hover {
-  color: #BD5D38;
+.dev-icons .list-inline-item {
+  padding:7px;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -503,5 +489,8 @@ a {
 
 a:hover, a:focus, a:active {
   color: #824027;
+}
+.fa-check{
+  margin-left: 230px !important;
 }
 </style>
