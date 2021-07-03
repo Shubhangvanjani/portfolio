@@ -268,7 +268,7 @@ opportunities.</p>
             <!-- <div class="subheading mb-3">Office Beacon LLC</div> -->
              <p>
               Purpose to build the system is to manage the internal order placement in the manufacturing firm with large number of products.</p>
-              <p>Using Reactjs as front end.</p>
+              <p>Used Reactjs as front end for developing the system.</p>
           </div>
           
         </div>
