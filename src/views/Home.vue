@@ -260,15 +260,22 @@ opportunities.</p>
         <!-- <h2 class="mb-5">Awards &amp; Certifications</h2> -->
         <h2 class="mb-5">Projects</h2>
         <div class="">
-           <!-- <div class="resume-date text-md-right">
-            <span class="text-primary">January 2019 - June 2019</span>
-          </div> -->
           <div class="resume-content">
             <h3 class="mb-0">Inventory Management System</h3>
-            <!-- <div class="subheading mb-3">Office Beacon LLC</div> -->
              <p>
               Purpose to build the system is to manage the internal order placement in the manufacturing firm with large number of products.</p>
               <p>Used Reactjs as front end for developing the system.</p>
+          </div>
+          
+        </div>
+
+         <div class="">
+          <div class="resume-content">
+            <h3 class="mb-0">HTML Javascript Editor (https://sv-aceditor.netlify.app/)</h3>
+              <p>Created responsive Javascript Code Editor using React</p>
+              <p>I used Ace Editor library to integrate editor with web.And to show the output of the editor i used iframe besides the editor.</p>
+              <p>Moreover i used bootstrap library for the responsive design in mobile screens.</p>
+              <p>Features like dark and light theme, save code into text file were also included.</p> 
           </div>
           
         </div>
