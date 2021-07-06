@@ -38,7 +38,7 @@
       </div>
     </nav>
 
-    <div class="container-fluid p-0">
+    <div class="container-fluid p-0" id="page-top">
 
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
       <div class="w-100">
