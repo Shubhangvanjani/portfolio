@@ -270,7 +270,7 @@ opportunities.</p>
 
          <div class="mt-5">
           <div class="resume-content">
-            <h3 class="mb-0">Javascript Editor (<a href="https://sv-aceditor.netlify.app/">https://sv-aceditor.netlify.app/</a>)</h3>
+            <h3 class="mb-0">Javascript Editor (<a href="https://sv-aceditor.netlify.app/" target="_blank">https://sv-aceditor.netlify.app/</a>)</h3>
               <p class="mt-3">Created responsive Javascript Code Editor using React.<br>
               I used Ace Editor library to integrate editor with web.And to show the output of the editor i used iframe besides the editor.<br>
               Moreover i used bootstrap library for the responsive design in mobile screens.<br>
