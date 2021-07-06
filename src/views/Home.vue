@@ -81,9 +81,9 @@ opportunities.</p>
             <h3 class="mb-0">Software Engineer Intern </h3>
             <div class="subheading mb-3">Office Beacon LLC</div>
              <p>
-              Developed feature to import csv with thousands of customer data using vuejs and nodejs.</p>
-              <p>Used web3.js to connect front-end with ethereum network in the blockchain projects.</p>
-              <p>Mailing service with particular date and time in nodejs.
+              Developed feature to import csv with thousands of customer data using vuejs and nodejs.<br>
+              Used web3.js to connect front-end with ethereum network in the blockchain projects.<br>
+              Mailing service with particular date and time in nodejs.
             </p>
           </div>
           
@@ -98,11 +98,10 @@ opportunities.</p>
             <div class="subheading mb-3">Office Beacon LLC</div>
            
             <p>
-              Developed a web application along with the native application which can run on both platforms i.e Android and IOS using the nativescript-vue technology.</p>
-             <p> Developed a service in nodejs using the micro-service architecture to integrate the third party API (Donbest API) with the application .
-            </p>
-            <p>Developed the clone of the mobile application using React Native and released for both the platforms (Android and IOS).</p>
-            <p>Created a service in feathers.js to integrate third party api of stock libraries like Adobe, Flickr, Pixabay, Unsplash and Pexels.</p>
+              Developed a web application along with the native application which can run on both platforms i.e Android and IOS using the nativescript-vue technology.<br>
+             Developed a service in nodejs using the micro-service architecture to integrate the third party API (Donbest API) with the application .<br>
+            Developed the clone of the mobile application using React Native and released for both the platforms (Android and IOS).<br>
+            Created a service in feathers.js to integrate third party api of stock libraries like Adobe, Flickr, Pixabay, Unsplash and Pexels.</p>
           </div>
           
         </div>
@@ -114,9 +113,9 @@ opportunities.</p>
           <div class="resume-content">
             <h3 class="mb-0">Software Developer </h3>
             <div class="subheading mb-3">Archesoftronix India pvt. ltd.</div>
-             <p>Developed a middleware for third-party apis of team-work crm in node js.</p>
-              <p>Developing Accounting Software using React as the front-end.</p>
-              <p>Developed an invoice calculator app using React Native for front end and nodejs for backend and deployed for ios on App Store.
+             <p>Developed a middleware for third-party apis of team-work crm in node js.<br>
+              Developing Accounting Software using React as the front-end.<br>
+              Developed an invoice calculator app using React Native for front end and nodejs for backend and deployed for ios on App Store.
             </p>
           </div>
           
@@ -259,23 +258,23 @@ opportunities.</p>
       <div class="w-100">
         <!-- <h2 class="mb-5">Awards &amp; Certifications</h2> -->
         <h2 class="mb-5">Projects</h2>
-        <div class="">
+        <div class="mt-5">
           <div class="resume-content">
             <h3 class="mb-0">Inventory Management System</h3>
-             <p>
-              Purpose to build the system is to manage the internal order placement in the manufacturing firm with large number of products.</p>
-              <p>Used Reactjs as front end for developing the system.</p>
+             <p class="mt-3">
+              Purpose to build the system is to manage the internal order placement in the manufacturing firm with large number of products.<br>
+              Used Reactjs as front end for developing the system.</p>
           </div>
           
         </div>
 
-         <div class="">
+         <div class="mt-5">
           <div class="resume-content">
-            <h3 class="mb-0">HTML Javascript Editor (https://sv-aceditor.netlify.app/)</h3>
-              <p>Created responsive Javascript Code Editor using React</p>
-              <p>I used Ace Editor library to integrate editor with web.And to show the output of the editor i used iframe besides the editor.</p>
-              <p>Moreover i used bootstrap library for the responsive design in mobile screens.</p>
-              <p>Features like dark and light theme, save code into text file were also included.</p> 
+            <h3 class="mb-0">Javascript Editor (<a href="https://sv-aceditor.netlify.app/">https://sv-aceditor.netlify.app/</a>)</h3>
+              <p class="mt-3">Created responsive Javascript Code Editor using React.<br>
+              I used Ace Editor library to integrate editor with web.And to show the output of the editor i used iframe besides the editor.<br>
+              Moreover i used bootstrap library for the responsive design in mobile screens.<br>
+              Features like dark and light theme, save code into text file were also included.</p> 
           </div>
           
         </div>
