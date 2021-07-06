@@ -57,12 +57,12 @@ opportunities.</p>
           <a href="https://github.com/Shubhangvanjani?tab=repositories">
             <i class="fab fa-github"></i>
           </a>
-          <a href="#">
+          <!-- <a href="#">
             <i class="fab fa-twitter"></i>
           </a>
           <a href="#">
             <i class="fab fa-skype"></i>
-          </a>
+          </a> -->
         </div>
       </div>
     </section>
